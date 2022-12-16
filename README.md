@@ -11,8 +11,6 @@ az_merge.zip = Arizona shapefile with block group data and demographic data
 
 hawaii_bg_dg = hawaii dual graph by block group used in voting power analysis
 
-# Math195-Prison-Gerrymandering-Final-Project
-
 AZ_Markov_Chain_bg_adj.py = Code for running short bursts on adjusted population data in Arizona
 
 AZ_Markov_Chain_bg_unadj.py = Code for running short bursts on unadjusted population data in Arizona
